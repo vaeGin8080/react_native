@@ -1,2 +1,7 @@
 # react_native
-react_native
+
+## cd android
+
+## yarn android
+
+
